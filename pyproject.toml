@@ -1,0 +1,10 @@
+[project]
+name = "bot_basic"
+version = "0.1.0"
+description = "Bot platform"
+requires-python = ">=3.8"
+dependencies = []
+
+[build-system]
+requires = ["hatchling"]
+build-backend = "hatchling.build"
